@@ -1,3 +1,4 @@
+![logo](https://github.com/nikhilyadav9105/nikhilyadav9105/blob/main/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Nikhil Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
